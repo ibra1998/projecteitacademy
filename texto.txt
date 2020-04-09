@@ -1,1 +1,4 @@
 este es ya el 3r cambio? He perdido la cuenta
+Este es el texto del segundo ejercicio de git
+y de github
+
